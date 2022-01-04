@@ -14,6 +14,7 @@ body{
 
 section{
     display: flex;
+    margin-bottom: 150px;
 
 }
 .half-weidght{
@@ -34,5 +35,11 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.new-dream{
+    background-image: url(images/dream-bg.png);
+background-repeat: no-repeat;
+background-position: left;
+background-image: url(images/exp-bg.png);
 
+}
 
