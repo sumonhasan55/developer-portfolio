@@ -1,3 +1,38 @@
 h1{
-    color: tomato;
+    
+    font-size: 50px;
 }
+body{
+    font-family: 'Righteous', cursive;
+    margin: 0px;
+    padding: 50px;
+}
+.oragne-color{
+    color: orange;
+}
+
+
+section{
+    display: flex;
+
+}
+.half-weidght{
+    width: 50%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-image: radial-gradient(orange,tomato);
+    color: white;
+    font-weight: 400;
+
+}
+
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+
